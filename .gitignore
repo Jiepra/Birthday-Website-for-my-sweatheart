@@ -23,7 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-
+public/images/readme.txt
+public/music/readme.txt
 # Personal data
 PRD.md
 AGENT.md
