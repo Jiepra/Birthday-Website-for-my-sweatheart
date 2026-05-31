@@ -23,12 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Personal media (photos & music) that should not be public
-public/images/*
-!public/images/readme.txt
-public/music/*
-!public/music/readme.txt
-
 
 # Personal data
 PRD.md
